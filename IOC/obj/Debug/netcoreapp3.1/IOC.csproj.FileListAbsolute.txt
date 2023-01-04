@@ -1,0 +1,14 @@
+C:\Users\ONUR\source\repos\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.exe
+C:\Users\ONUR\source\repos\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.deps.json
+C:\Users\ONUR\source\repos\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.runtimeconfig.json
+C:\Users\ONUR\source\repos\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.runtimeconfig.dev.json
+C:\Users\ONUR\source\repos\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.dll
+C:\Users\ONUR\source\repos\IOC\IOC\bin\Debug\netcoreapp3.1\IOC.pdb
+C:\Users\ONUR\source\repos\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.AssemblyReference.cache
+C:\Users\ONUR\source\repos\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ONUR\source\repos\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfoInputs.cache
+C:\Users\ONUR\source\repos\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.AssemblyInfo.cs
+C:\Users\ONUR\source\repos\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\source\repos\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.dll
+C:\Users\ONUR\source\repos\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.pdb
+C:\Users\ONUR\source\repos\IOC\IOC\obj\Debug\netcoreapp3.1\IOC.genruntimeconfig.cache
