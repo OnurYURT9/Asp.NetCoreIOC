@@ -4,7 +4,7 @@ using System.Text;
 
 namespace IOC
 {
-    class DAL
+   internal class DAL : IDAL
     {
         public List<Product> GetProducts()
         {
@@ -16,6 +16,10 @@ namespace IOC
                 new Product{Id=4,Name="Kalem 4",Price=100,Stock=50}
 
             };
+        }
+        public int Hesapla()
+        {
+            return 100;
         }
     }
 }

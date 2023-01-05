@@ -6,13 +6,15 @@ namespace IOC
 {
     internal class BL
     {
-        private DAL _dal { get; set; }
-        public BL()
+        private IDAL _dal { get; set; }
+        public BL(IDAL dal)
         {
-            _dal = DALFactory.GetDal();
+            _dal = dal;
+            
         }
         public List<Product> GetProducts ()
         {
+            
             return _dal.GetProducts();
         }
     }
