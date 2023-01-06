@@ -11,7 +11,7 @@ IoC(Inversion Of Control), uygulamanın yaşam döngüsü boyunca birbirine bağ
 5.IOC Container Kullanma</br>
 6.Losely Couple Class</br>
 ## Oluşturduğumuz Nesnelerin Yaşam Sürelerinin Durumları
-<strong>Singelton</strong>: Uygulama ilk başlatıldığında ilgili nesneyi bir kere oluşturur ve yapılan istek vs. farketmeksizin bu oluşturduğu nesneyi kullanır.
+<strong>Singelton</strong>: Uygulama ilk başlatıldığında ilgili nesneyi bir kere oluşturur ve yapılan istek vs. farketmeksizin bu oluşturduğu nesneyi kullanır. <br/>
 <strong>Scoped</strong>: Uygulama her bir istekte nesneyi instance eder. İstek bitene kadar tekrardan oluşmaz. <br/>
 <strong>Transient</strong>: Nesneyi her çağırdığımızdaa yeni bir instance oluşur.
 
